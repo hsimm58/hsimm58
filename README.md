@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am currently a student at WGU pursuing a Bachelors in Computer Science.
+Fun fact about me is that I am a licensed falconer in the state of South Carolina. I have been working with birds of prey for over two years now, and have also worked with Draft Horses in the carriage industry for several years. 
 <!--
 **hsimm58/hsimm58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
